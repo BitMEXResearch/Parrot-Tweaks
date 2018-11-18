@@ -1,2 +1,2 @@
-# Parrot-Tweaks
-Some Tweaks I have done in my Linux distro. (Parrot Security OS)
+# Tweaks of OS
+Some Tweaks I have done in my Linux distro. (Ubuntu OS)
