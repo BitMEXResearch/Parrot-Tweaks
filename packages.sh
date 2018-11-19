@@ -49,7 +49,7 @@ sudo add-apt-repository ppa:pidgin-developers/ppa
 sudo apt-get update
 sudo apt-get install pidgin
 
-#netspeed-indicator
+#Netspeed-indicator
 sudo apt-get install build-essential libgtop2-dev libgtk-3-dev libappindicator3-dev git-core
 git clone git://github.com/mgedmin/indicator-netspeed.git
 cd indicator-netspeed
