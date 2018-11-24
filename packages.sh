@@ -160,3 +160,7 @@ pip install kmeans
 sudo add-apt-repository ppa:tomahawk/ppa 
 sudo apt-get update
 sudo apt-get install tomahawk
+
+#Audacity - Audio editor
+sudo apt updateAudacity 
+sudo apt install audacity
