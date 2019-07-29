@@ -164,3 +164,7 @@ sudo apt-get install tomahawk
 #Audacity - Audio editor
 sudo apt updateAudacity 
 sudo apt install audacity
+
+#Chrome - Web Browser
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo dpkg -i google-chrome-stable_current_amd64.deb
